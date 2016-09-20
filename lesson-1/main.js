@@ -1,4 +1,4 @@
-function runScript() {
+function generateTriangle() {
     var triangle = [];
 
     for(var row = 1; row <= 10; row++) {
