@@ -1,7 +1,19 @@
-.main-content {
-    width: 500px;
-    height: 500px;
-    background-color: #2366AA;
+.hidden {
+    display: none;
+}
+
+
+.main {
+    width: 350px;
+    height: 350px;
+    float: left;
     padding: 25px;
-    color: white;
+    line-height: 35px;
+}
+
+.menu {
+}
+
+.content {
+    border: 1px solid black;
 }

@@ -1,0 +1,6 @@
+Zadania do wykonania:
+
+1. Zapoznaj się z zawartością wszystkich plików w folderze lesson-1
+2. Przetestuj działanie kodu dodawania zawartości dwóch pól tekstowych - plik arithmetic.js
+3. Dopisz trzy funkcjonalności - do odejmowania, dzielenia i mnożenia dwóch liczb
+4.
